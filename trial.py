@@ -12,3 +12,7 @@ def divide(a,b):
 
 def subtract(a,b):
     return a - b
+
+def plot_data(data):
+    sns.lineplot(data=data)
+    sns.show()
