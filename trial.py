@@ -12,3 +12,6 @@ def subtract(a,b):
 
 def add_new(a,b):
     return a + b + 10
+
+def yuri(x):
+    return x
